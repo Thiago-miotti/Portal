@@ -2,7 +2,7 @@
 
 This project is a stylized 3D scene created using [Three.js](https://threejs.org/), showcasing a mystical portal with glowing lights, animated particles (fireflies), and custom shaders for a magical atmosphere.
 
-<video src="static/VideoPortalGit.mp4" controls width="100%" />
+![3D Portal Preview](static/Preview.png)
 
 ## ✨ Technologies Used
 
